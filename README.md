@@ -1,7 +1,6 @@
 # Software as a service (SAAS) Performance Analysis
 
 ## Introduction (including aims and objectives)
-### Skills required
 ### Tools
 ### KPI and metric tracked 
 ### Analysis
@@ -32,17 +31,24 @@ Techical skills (Tools)
 
 ### KPI and metric tracked
 
-Total revenue 
-Year over year growth and decline
-Churn rate 
-Custumer acquisition sources (Google ads, direct, referral, Facebook, linkedin, Twitter)
-Country and Regional Revenue distribution(United state, united kingdom e.t.c.)
+- Total revenue
+  
+- Year over year growth and decline
+  
+- Churn rate
+  
+- Custumer acquisition sources (Google ads, direct, referral, Facebook, linkedin, Twitter
+  
+- Country and Regional Revenue distribution(United state, united kingdom e.t.c.)
 
 
 
 ### Analysis
 
-Paying more attention,14% customers left (497 churned vs 3,001 retained), SaaS average churn is usually 5–7%, so this is a red flag. Deep diving into year 2021 as our focus downward with the total revenue of $493K and percentage difference of +1.23% having the maximum and the minimum value of ($47K in month of January and $36K in the month of October). From the general research, Facebook referrals suggest that users are sharing SaaS products socially (posts, groups, communities, or personal recommendations).
+Paying more attention,14% customers left (497 churned vs 3,001 retained), SaaS average churn is usually 5–7%, so this is a red flag. 
+<img width="1470" height="956" alt="pie" src="https://github.com/user-attachments/assets/09d527a9-8650-4716-84aa-afaff2453a32" />
+
+Deep diving into year 2021 as our focus downward with the total revenue of $493K and percentage difference of +1.23% having the maximum and the minimum value of ($47K in month of January and $36K in the month of October). From the general research, Facebook referrals suggest that users are sharing SaaS products socially (posts, groups, communities, or personal recommendations).
 This is common for SaaS tools that appeal to small businesses, freelancers, or individuals (e.g., Canva, Grammarly, Notion). And on at the funnel analysis, is the one toping the funnel analysis with the referral percentage of 17.401% higher compare to other referral course. From the funnel analysis, Twitter (17.391%) pulled up to be the second while Google ads (17.020%) pulled up to be the third with the insignificant difference of not more than approximately 0.4%.
 
 <img width="1470" height="956" alt="Funnel usa" src="https://github.com/user-attachments/assets/0507a2f6-e193-4d82-a2af-e0dcf63dfb27" />
@@ -81,6 +87,8 @@ Recommendations
 3. Allocate ad spend based on channel strengths: Facebook for social-driven markets (USA, UK, Nigeria) and Google Ads/Direct for search-driven markets (Canada, Germany).
 4. Replicate U.S.-level customer success and support globally to raise retention and engagement outside the headquarters market.
 5. Introduce annual and quarterly billing options to stabilize revenue fluctuations and improve long-term cash flow.
+
+   
 
 Conclusion
 
