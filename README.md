@@ -102,3 +102,5 @@ The analysis reveals that while the company achieved $493K in revenue in 2021 wi
 suppresses growth in other regions. Funnel patterns show clear regional differences—Canada and Germany respond best to search-driven channels, while Nigeria and the UK rely heavily on social referrals—underscoring the need for localized strategies. Revenue fluctuations across months further stress the importance of stabilizing MRR through retention and annual billing models. Overall, addressing churn, diversifying revenue sources, and tailoring acquisition by region are essential to unlocking sustainable global growth.
 
 
+[dashboard](#https://public.tableau.com/app/profile/lekan.haruna/viz/first_chart_17559636827090/saasdashboard)
+
