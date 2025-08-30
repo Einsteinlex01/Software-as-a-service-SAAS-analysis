@@ -94,3 +94,5 @@ But on looking at the analysis and comparison between each country, USA has the 
 
 The analysis reveals that while the company achieved $493K in revenue in 2021 with slight growth, a churn rate of 14% highlights a critical retention challenge. The U.S. market, contributing $927K and benefiting from stronger customer success efforts, dominates revenue but creates overreliance that
 suppresses growth in other regions. Funnel patterns show clear regional differences—Canada and Germany respond best to search-driven channels, while Nigeria and the UK rely heavily on social referrals—underscoring the need for localized strategies. Revenue fluctuations across months further stress the importance of stabilizing MRR through retention and annual billing models. Overall, addressing churn, diversifying revenue sources, and tailoring acquisition by region are essential to unlocking sustainable global growth.
+
+
