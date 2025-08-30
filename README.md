@@ -80,26 +80,26 @@ Funnel analysis of other countries:
   
   <img width="1470" height="956" alt="funnel united kingdom" src="https://github.com/user-attachments/assets/d566620d-1a9d-4d1b-bda9-f045485d05ec" />
 
-By aligning acquisition channels with country-specific behavior, SaaS companies can maximize monthly revenue and yearly profit growth. Search-driven markets like Canada and Germany provide stable, predictable revenue
+By aligning acquisition channels with country specific behavior, SaaS companies can maximize monthly revenue and yearly profit growth. Search driven markets like Canada and Germany provide stable, predictable revenue
 
-via Google Ads and Direct traffic, while social-driven markets like Nigeria and the UK provide high-volume growth through Facebook, LinkedIn, and Twitter. Focusing ad spend and retention strategies by region allows the company to improve its LTV/CAC ratio, reduce churn, and steadily grow monthly recurring revenue (MRR) across the year.
+via Google Ads and Direct traffic, while social driven markets like Nigeria and the UK provide high volume growth through Facebook, LinkedIn, and Twitter. Focusing ad spend and retention strategies by region allows the company to improve its LTV/CAC ratio, reduce churn, and steadily grow monthly recurring revenue (MRR) across the year.
 
 But on looking at the analysis and comparison between each country, USA has the largest population and this is where the headquarter is located more attention is paid to the discount implementation, high engagement, proactive customer success and strong customer support compare to other region which is obvious because it is the one pulling the highest revenue of $927K over the years. And due this fluctuation, it course depression in revenue in other countries compare to the heart of the organization. 
 
 ### Recommendations
 
-1. Reduce churn from 14% to under 10% by improving onboarding, tracking customer health, and proactively engaging at-risk accounts.
+1. Reduce churn from 14% to under 10% by improving onboarding, tracking customer health, and proactively engaging at risk accounts.
 2. Diversify revenue beyond the U.S. by increasing investment in Canada, Germany, the UK, and Nigeria through localized campaigns and pricing.
-3. Allocate ad spend based on channel strengths: Facebook for social-driven markets (USA, UK, Nigeria) and Google Ads/Direct for search-driven markets (Canada, Germany).
-4. Replicate U.S.-level customer success and support globally to raise retention and engagement outside the headquarters market.
-5. Introduce annual and quarterly billing options to stabilize revenue fluctuations and improve long-term cash flow.
+3. Allocate ad spend based on channel strengths: Facebook for social driven markets (USA, UK, Nigeria) and Google Ads/Direct for search-driven markets (Canada, Germany).
+4. Replicate U.S. level customer success and support globally to raise retention and engagement outside the headquarters market.
+5. Introduce annual and quarterly billing options to stabilize revenue fluctuations and improve long term cash flow.
 
    
 
 ### Conclusion
 
 The analysis reveals that while the company achieved $493K in revenue in 2021 with slight growth, a churn rate of 14% highlights a critical retention challenge. The U.S. market, contributing $927K and benefiting from stronger customer success efforts, dominates revenue but creates overreliance that
-suppresses growth in other regions. Funnel patterns show clear regional differences—Canada and Germany respond best to search-driven channels, while Nigeria and the UK rely heavily on social referrals—underscoring the need for localized strategies. Revenue fluctuations across months further stress the importance of stabilizing MRR through retention and annual billing models. Overall, addressing churn, diversifying revenue sources, and tailoring acquisition by region are essential to unlocking sustainable global growth.
+suppresses growth in other regions. Funnel patterns show clear regional differences Canada and Germany respond best to search driven channels, while Nigeria and the UK rely heavily on social referrals underscoring the need for localized strategies. Revenue fluctuations across months further stress the importance of stabilizing MRR through retention and annual billing models. Overall, addressing churn, diversifying revenue sources, and tailoring acquisition by region are essential to unlocking sustainable global growth.
 
 
 [dashboard](#https://public.tableau.com/app/profile/lekan.haruna/viz/first_chart_17559636827090/saasdashboard)
